@@ -33,7 +33,7 @@
       "command": "uvx",
       "args": [
         "--from",
-        "git+https://github.com/xxxxchao/cochrane-mcp",
+        "git+https://github.com/xxxxchaos/cochrane-mcp",
         "cochrane-mcp"
       ]
     }
@@ -50,7 +50,7 @@
       "command": "uvx",
       "args": [
         "--from",
-        "git+https://github.com/xxxxchao/cochrane-mcp",
+        "git+https://github.com/xxxxchaos/cochrane-mcp",
         "cochrane-mcp"
       ]
     }
