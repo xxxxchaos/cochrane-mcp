@@ -1,0 +1,12 @@
+[project]
+name = "cochrane-mcp"
+version = "0.1.0"
+description = "Cochrane Systematic Reviews MCP Server — search Cochrane reviews and clinical trials via Europe PMC API"
+requires-python = ">=3.10"
+dependencies = [
+    "fastmcp>=2.0.0",
+    "httpx>=0.28.0",
+]
+
+[project.scripts]
+cochrane-mcp = "cochrane_mcp_server:main"
